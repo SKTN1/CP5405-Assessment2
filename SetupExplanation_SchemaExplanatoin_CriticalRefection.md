@@ -151,7 +151,7 @@ Stages: `$lookup` → `$unwind` → `$unwind` → `$group` → `$addFields` → 
 
 ### Pipeline 3 — Movement Frequency vs Engagement (Open-ended)
 Segments attendees into mobility tiers using `$bucket`, then measures average
-feedback volume and rating per tier — identifying non-obvious engagement patterns.
+feedback volume and rating per tier  identifying non-obvious engagement patterns.
 Stages: `$project` → `$bucket` → `$project`
 
 ---
@@ -159,7 +159,7 @@ Stages: `$project` → `$bucket` → `$project`
 ## Critical Reflection
 
 ### Complexity
-The DataFest scenario is inherently complex — three live data streams, multiple
+The DataFest scenario is inherently complex  three live data streams, multiple
 access patterns, and an undefined set of future data sources. A purely normalised
 relational approach would require multiple joins for every query. The hybrid embedding
 + denormalization strategy reduces this complexity by co-locating data according to
@@ -174,7 +174,7 @@ attendees, 1,000 → 100,000 ticket scans). Key scalability choices:
 - Bulk API reduces write amplification for batch operations
 
 At 1,000x scale (millions of documents), the partial index on high-rated feedback
-becomes critical — a full index on a low-selectivity field wastes memory and slows
+becomes critical  a full index on a low-selectivity field wastes memory and slows
 writes, while the partial index covers only the qualifying subset.
 
 ### Professional Practice
@@ -186,7 +186,7 @@ downtime or migration scripts.
 
 ### Limitations
 - The dataset (287 attendees) is small enough that COLLSCAN vs IXSCAN timing
-  differences are minimal in milliseconds — the structural improvement in
+  differences are minimal in milliseconds the structural improvement in
   `totalDocsExamined` is the meaningful metric at this scale.
 - MongoDB Atlas free-tier TTL monitor runs every 60 seconds, so TTL expiry
   is not instantaneous in the demo environment.
