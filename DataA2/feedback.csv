@@ -1,0 +1,501 @@
+feedback_id,attendee_id,session_id,rating,comment
+F0001,A319,S139,3,Needs more technical depth.
+F0002,A270,S141,3,Slides were hard to read.
+F0003,A142,S144,4,Good but room too crowded.
+F0004,A308,S141,1,Will recommend to colleagues.
+F0005,A172,S108,3,Average content.
+F0006,A373,S136,2,Slides were hard to read.
+F0007,A289,S114,2,Average content.
+F0008,A241,S113,1,Great speaker energy!
+F0009,A276,S126,3,Well organised session.
+F0010,A144,S110,2,Will recommend to colleagues.
+F0011,A333,S107,2,Well organised session.
+F0012,A379,S144,2,Will recommend to colleagues.
+F0013,A341,S147,1,Slides were hard to read.
+F0014,A166,S124,3,Great speaker energy!
+F0015,A383,S138,4,Not relevant to my work.
+F0016,A195,S118,2,Not relevant to my work.
+F0017,A194,S134,1,Well organised session.
+F0018,A103,S115,1,Great speaker energy!
+F0019,A219,S130,4,"Excellent talk, very useful."
+F0020,A110,S142,3,Great speaker energy!
+F0021,A386,S110,1,Great speaker energy!
+F0022,A197,S121,2,Well organised session.
+F0023,A182,S126,4,Needs more technical depth.
+F0024,A360,S134,5,Great speaker energy!
+F0025,A211,S119,5,Great speaker energy!
+F0026,A174,S106,4,Not relevant to my work.
+F0027,A245,S119,5,Will recommend to colleagues.
+F0028,A320,S117,3,Great speaker energy!
+F0029,A184,S132,4,Well organised session.
+F0030,A153,S114,5,Great speaker energy!
+F0031,A219,S146,5,"Excellent talk, very useful."
+F0032,A239,S116,1,Will recommend to colleagues.
+F0033,A138,S113,5,"Excellent talk, very useful."
+F0034,A116,S116,2,Average content.
+F0035,A332,S147,1,Slides were hard to read.
+F0036,A198,S136,4,Great speaker energy!
+F0037,A217,S141,2,Good but room too crowded.
+F0038,A335,S106,5,Average content.
+F0039,A238,S134,5,Great speaker energy!
+F0040,A152,S130,1,Good but room too crowded.
+F0041,A237,S145,2,Good but room too crowded.
+F0042,A147,S135,2,Needs more technical depth.
+F0043,A198,S119,4,Needs more technical depth.
+F0044,A203,S112,1,Slides were hard to read.
+F0045,A362,S117,4,Great speaker energy!
+F0046,A358,S103,4,Needs more technical depth.
+F0047,A358,S129,5,Will recommend to colleagues.
+F0048,A133,S117,3,Needs more technical depth.
+F0049,A238,S110,3,Will recommend to colleagues.
+F0050,A300,S126,3,Needs more technical depth.
+F0051,A286,S111,5,Good but room too crowded.
+F0052,A129,S129,5,Will recommend to colleagues.
+F0053,A193,S133,5,Good but room too crowded.
+F0054,A149,S106,3,Slides were hard to read.
+F0055,A294,S114,4,Will recommend to colleagues.
+F0056,A268,S146,5,Not relevant to my work.
+F0057,A374,S118,4,Needs more technical depth.
+F0058,A271,S139,4,Average content.
+F0059,A326,S147,5,Slides were hard to read.
+F0060,A318,S132,1,Slides were hard to read.
+F0061,A260,S106,4,Great speaker energy!
+F0062,A168,S147,4,Will recommend to colleagues.
+F0063,A398,S149,3,Good but room too crowded.
+F0064,A314,S114,5,Slides were hard to read.
+F0065,A363,S117,3,"Excellent talk, very useful."
+F0066,A147,S124,3,Will recommend to colleagues.
+F0067,A154,S134,5,Needs more technical depth.
+F0068,A161,S122,4,Great speaker energy!
+F0069,A282,S140,3,Great speaker energy!
+F0070,A229,S111,4,Slides were hard to read.
+F0071,A267,S143,3,Will recommend to colleagues.
+F0072,A270,S106,2,Average content.
+F0073,A392,S128,5,Needs more technical depth.
+F0074,A332,S138,1,Well organised session.
+F0075,A119,S144,1,Slides were hard to read.
+F0076,A272,S141,3,Not relevant to my work.
+F0077,A299,S147,1,Good but room too crowded.
+F0078,A198,S101,3,Slides were hard to read.
+F0079,A298,S140,5,Good but room too crowded.
+F0080,A159,S118,1,Average content.
+F0081,A311,S121,4,Average content.
+F0082,A217,S140,1,Great speaker energy!
+F0083,A379,S145,3,Average content.
+F0084,A256,S134,4,Not relevant to my work.
+F0085,A246,S126,5,Will recommend to colleagues.
+F0086,A306,S136,2,Well organised session.
+F0087,A244,S125,4,Well organised session.
+F0088,A371,S147,4,Will recommend to colleagues.
+F0089,A143,S146,3,Slides were hard to read.
+F0090,A375,S143,2,Average content.
+F0091,A117,S135,5,Well organised session.
+F0092,A153,S134,1,Very engaging speaker.
+F0093,A271,S105,3,"Excellent talk, very useful."
+F0094,A370,S142,2,Well organised session.
+F0095,A395,S136,2,Average content.
+F0096,A390,S117,3,Good but room too crowded.
+F0097,A140,S119,3,Needs more technical depth.
+F0098,A333,S126,2,Good but room too crowded.
+F0099,A230,S131,5,Very engaging speaker.
+F0100,A393,S140,2,Average content.
+F0101,A235,S119,2,Good but room too crowded.
+F0102,A254,S105,3,Not relevant to my work.
+F0103,A371,S144,1,Well organised session.
+F0104,A133,S145,1,Slides were hard to read.
+F0105,A167,S114,3,Great speaker energy!
+F0106,A237,S148,2,Good but room too crowded.
+F0107,A171,S102,2,"Excellent talk, very useful."
+F0108,A231,S146,2,Well organised session.
+F0109,A132,S121,1,Will recommend to colleagues.
+F0110,A386,S128,4,"Excellent talk, very useful."
+F0111,A400,S131,2,Very engaging speaker.
+F0112,A299,S119,1,Average content.
+F0113,A348,S127,5,Good but room too crowded.
+F0114,A350,S134,4,Will recommend to colleagues.
+F0115,A115,S132,5,Well organised session.
+F0116,A299,S110,4,Slides were hard to read.
+F0117,A353,S109,5,Not relevant to my work.
+F0118,A303,S145,2,Well organised session.
+F0119,A325,S118,3,Very engaging speaker.
+F0120,A378,S122,4,Well organised session.
+F0121,A301,S119,2,Good but room too crowded.
+F0122,A218,S134,3,Good but room too crowded.
+F0123,A312,S104,4,Very engaging speaker.
+F0124,A260,S118,2,Great speaker energy!
+F0125,A380,S127,3,Slides were hard to read.
+F0126,A312,S105,2,Not relevant to my work.
+F0127,A159,S141,5,Needs more technical depth.
+F0128,A157,S140,1,Needs more technical depth.
+F0129,A129,S110,5,Well organised session.
+F0130,A309,S118,2,Not relevant to my work.
+F0131,A242,S135,3,Good but room too crowded.
+F0132,A249,S109,5,"Excellent talk, very useful."
+F0133,A374,S144,4,Slides were hard to read.
+F0134,A183,S135,3,Will recommend to colleagues.
+F0135,A390,S117,3,Not relevant to my work.
+F0136,A118,S123,1,Very engaging speaker.
+F0137,A212,S122,3,Will recommend to colleagues.
+F0138,A234,S126,2,Needs more technical depth.
+F0139,A142,S129,1,Very engaging speaker.
+F0140,A228,S120,3,Well organised session.
+F0141,A201,S114,2,Average content.
+F0142,A137,S143,3,Average content.
+F0143,A187,S136,1,Slides were hard to read.
+F0144,A179,S102,2,"Excellent talk, very useful."
+F0145,A229,S129,1,Well organised session.
+F0146,A179,S113,1,Great speaker energy!
+F0147,A271,S114,1,Great speaker energy!
+F0148,A236,S140,3,Slides were hard to read.
+F0149,A347,S149,3,"Excellent talk, very useful."
+F0150,A319,S131,4,Good but room too crowded.
+F0151,A289,S113,4,Good but room too crowded.
+F0152,A356,S111,4,Good but room too crowded.
+F0153,A103,S111,4,Good but room too crowded.
+F0154,A148,S106,5,Slides were hard to read.
+F0155,A337,S110,2,Slides were hard to read.
+F0156,A113,S105,4,Great speaker energy!
+F0157,A261,S136,5,Average content.
+F0158,A114,S133,1,Needs more technical depth.
+F0159,A389,S103,4,"Excellent talk, very useful."
+F0160,A170,S140,2,Will recommend to colleagues.
+F0161,A374,S104,1,"Excellent talk, very useful."
+F0162,A147,S118,5,Great speaker energy!
+F0163,A219,S128,3,Well organised session.
+F0164,A120,S142,1,Will recommend to colleagues.
+F0165,A200,S135,2,Will recommend to colleagues.
+F0166,A321,S130,1,Not relevant to my work.
+F0167,A340,S101,3,Needs more technical depth.
+F0168,A274,S113,2,Needs more technical depth.
+F0169,A181,S148,1,Needs more technical depth.
+F0170,A253,S104,3,Very engaging speaker.
+F0171,A176,S126,4,"Excellent talk, very useful."
+F0172,A211,S144,5,Very engaging speaker.
+F0173,A138,S102,1,Average content.
+F0174,A396,S112,2,Slides were hard to read.
+F0175,A178,S131,4,Not relevant to my work.
+F0176,A133,S130,5,Will recommend to colleagues.
+F0177,A138,S117,3,Slides were hard to read.
+F0178,A122,S127,2,Good but room too crowded.
+F0179,A147,S135,4,Well organised session.
+F0180,A340,S106,3,Good but room too crowded.
+F0181,A362,S111,4,Will recommend to colleagues.
+F0182,A371,S145,2,"Excellent talk, very useful."
+F0183,A122,S128,5,Good but room too crowded.
+F0184,A316,S136,2,Slides were hard to read.
+F0185,A303,S108,2,Will recommend to colleagues.
+F0186,A310,S121,1,Slides were hard to read.
+F0187,A160,S128,3,Good but room too crowded.
+F0188,A263,S131,5,Good but room too crowded.
+F0189,A171,S141,3,"Excellent talk, very useful."
+F0190,A323,S136,3,Very engaging speaker.
+F0191,A382,S144,3,Good but room too crowded.
+F0192,A353,S105,3,Not relevant to my work.
+F0193,A353,S137,5,Needs more technical depth.
+F0194,A343,S127,1,Needs more technical depth.
+F0195,A253,S133,3,Average content.
+F0196,A242,S125,5,"Excellent talk, very useful."
+F0197,A292,S113,5,"Excellent talk, very useful."
+F0198,A119,S142,3,Needs more technical depth.
+F0199,A109,S112,2,Slides were hard to read.
+F0200,A177,S128,2,Slides were hard to read.
+F0201,A205,S148,5,"Excellent talk, very useful."
+F0202,A327,S147,1,Needs more technical depth.
+F0203,A392,S118,4,Needs more technical depth.
+F0204,A102,S104,2,Not relevant to my work.
+F0205,A364,S129,3,Needs more technical depth.
+F0206,A236,S133,4,Not relevant to my work.
+F0207,A301,S139,1,Not relevant to my work.
+F0208,A249,S139,4,Will recommend to colleagues.
+F0209,A384,S127,2,Good but room too crowded.
+F0210,A114,S113,3,Great speaker energy!
+F0211,A365,S146,5,Not relevant to my work.
+F0212,A284,S125,4,Very engaging speaker.
+F0213,A306,S125,1,"Excellent talk, very useful."
+F0214,A342,S108,3,Very engaging speaker.
+F0215,A143,S146,1,Very engaging speaker.
+F0216,A259,S141,2,Good but room too crowded.
+F0217,A300,S144,1,"Excellent talk, very useful."
+F0218,A383,S105,1,Average content.
+F0219,A116,S141,3,Not relevant to my work.
+F0220,A391,S114,4,Average content.
+F0221,A299,S124,1,Good but room too crowded.
+F0222,A224,S142,1,Will recommend to colleagues.
+F0223,A182,S139,5,Very engaging speaker.
+F0224,A318,S102,2,"Excellent talk, very useful."
+F0225,A103,S147,1,Not relevant to my work.
+F0226,A205,S109,1,Great speaker energy!
+F0227,A307,S118,1,Good but room too crowded.
+F0228,A246,S129,1,Needs more technical depth.
+F0229,A366,S114,4,Good but room too crowded.
+F0230,A229,S114,4,Not relevant to my work.
+F0231,A220,S139,3,Good but room too crowded.
+F0232,A119,S132,4,Will recommend to colleagues.
+F0233,A209,S145,1,Needs more technical depth.
+F0234,A206,S102,2,Will recommend to colleagues.
+F0235,A154,S113,4,Not relevant to my work.
+F0236,A119,S108,5,Well organised session.
+F0237,A183,S106,2,Will recommend to colleagues.
+F0238,A297,S146,3,Will recommend to colleagues.
+F0239,A118,S104,5,Good but room too crowded.
+F0240,A169,S129,3,Very engaging speaker.
+F0241,A226,S145,3,Slides were hard to read.
+F0242,A235,S112,4,Well organised session.
+F0243,A131,S139,1,Very engaging speaker.
+F0244,A140,S149,2,Average content.
+F0245,A302,S102,2,Well organised session.
+F0246,A290,S135,1,Average content.
+F0247,A278,S103,1,Well organised session.
+F0248,A339,S142,2,Great speaker energy!
+F0249,A148,S130,1,Will recommend to colleagues.
+F0250,A199,S108,5,Very engaging speaker.
+F0251,A212,S101,5,Great speaker energy!
+F0252,A102,S116,2,Slides were hard to read.
+F0253,A338,S105,2,Needs more technical depth.
+F0254,A230,S122,5,Very engaging speaker.
+F0255,A314,S143,2,Not relevant to my work.
+F0256,A355,S140,3,Average content.
+F0257,A319,S115,3,Average content.
+F0258,A328,S107,1,Great speaker energy!
+F0259,A200,S111,2,Good but room too crowded.
+F0260,A220,S148,4,Good but room too crowded.
+F0261,A216,S122,4,Will recommend to colleagues.
+F0262,A334,S122,2,"Excellent talk, very useful."
+F0263,A381,S148,5,Well organised session.
+F0264,A357,S121,5,Great speaker energy!
+F0265,A183,S142,3,Good but room too crowded.
+F0266,A241,S114,4,"Excellent talk, very useful."
+F0267,A176,S117,5,Not relevant to my work.
+F0268,A385,S106,2,Will recommend to colleagues.
+F0269,A398,S127,2,Average content.
+F0270,A366,S101,2,Good but room too crowded.
+F0271,A182,S132,1,Average content.
+F0272,A327,S102,3,Not relevant to my work.
+F0273,A190,S117,5,"Excellent talk, very useful."
+F0274,A132,S139,2,Slides were hard to read.
+F0275,A190,S122,2,"Excellent talk, very useful."
+F0276,A216,S143,3,"Excellent talk, very useful."
+F0277,A141,S114,1,Great speaker energy!
+F0278,A374,S120,4,Great speaker energy!
+F0279,A272,S141,5,Needs more technical depth.
+F0280,A237,S128,4,"Excellent talk, very useful."
+F0281,A192,S125,4,Not relevant to my work.
+F0282,A394,S124,5,Needs more technical depth.
+F0283,A171,S147,1,Needs more technical depth.
+F0284,A256,S130,5,Good but room too crowded.
+F0285,A228,S108,4,Needs more technical depth.
+F0286,A128,S141,5,"Excellent talk, very useful."
+F0287,A152,S135,1,Slides were hard to read.
+F0288,A216,S125,2,Great speaker energy!
+F0289,A340,S129,4,Well organised session.
+F0290,A186,S139,5,Very engaging speaker.
+F0291,A234,S115,1,Not relevant to my work.
+F0292,A203,S147,4,Slides were hard to read.
+F0293,A244,S128,5,Well organised session.
+F0294,A381,S136,1,Good but room too crowded.
+F0295,A305,S144,2,Very engaging speaker.
+F0296,A384,S132,1,Average content.
+F0297,A170,S127,3,Needs more technical depth.
+F0298,A299,S122,2,Slides were hard to read.
+F0299,A158,S146,5,Very engaging speaker.
+F0300,A225,S116,5,Slides were hard to read.
+F0301,A373,S146,3,Good but room too crowded.
+F0302,A379,S146,1,Slides were hard to read.
+F0303,A373,S107,4,"Excellent talk, very useful."
+F0304,A171,S104,5,Will recommend to colleagues.
+F0305,A346,S123,2,Slides were hard to read.
+F0306,A326,S118,3,Average content.
+F0307,A311,S130,3,"Excellent talk, very useful."
+F0308,A368,S128,5,Good but room too crowded.
+F0309,A136,S118,4,Slides were hard to read.
+F0310,A120,S106,3,Will recommend to colleagues.
+F0311,A182,S108,1,"Excellent talk, very useful."
+F0312,A369,S105,4,Average content.
+F0313,A171,S120,2,Good but room too crowded.
+F0314,A379,S140,1,Great speaker energy!
+F0315,A291,S121,4,"Excellent talk, very useful."
+F0316,A209,S135,1,Slides were hard to read.
+F0317,A291,S123,4,Slides were hard to read.
+F0318,A207,S121,3,Very engaging speaker.
+F0319,A364,S112,1,Average content.
+F0320,A183,S150,2,Average content.
+F0321,A277,S135,5,Average content.
+F0322,A234,S122,3,Very engaging speaker.
+F0323,A107,S143,3,Slides were hard to read.
+F0324,A127,S104,2,Needs more technical depth.
+F0325,A347,S113,5,Great speaker energy!
+F0326,A239,S131,2,Well organised session.
+F0327,A272,S104,1,Well organised session.
+F0328,A293,S132,2,"Excellent talk, very useful."
+F0329,A174,S146,5,Great speaker energy!
+F0330,A389,S149,5,Not relevant to my work.
+F0331,A386,S145,2,Not relevant to my work.
+F0332,A302,S142,1,Well organised session.
+F0333,A243,S115,5,Well organised session.
+F0334,A104,S139,3,Well organised session.
+F0335,A264,S145,4,Well organised session.
+F0336,A220,S119,1,Very engaging speaker.
+F0337,A347,S126,4,Slides were hard to read.
+F0338,A210,S139,5,Not relevant to my work.
+F0339,A273,S113,1,Needs more technical depth.
+F0340,A192,S136,4,Very engaging speaker.
+F0341,A272,S136,4,Needs more technical depth.
+F0342,A148,S117,1,Well organised session.
+F0343,A223,S104,3,Well organised session.
+F0344,A251,S102,1,Good but room too crowded.
+F0345,A305,S102,3,Needs more technical depth.
+F0346,A147,S124,5,Good but room too crowded.
+F0347,A397,S149,2,Good but room too crowded.
+F0348,A382,S103,4,Good but room too crowded.
+F0349,A363,S131,5,Well organised session.
+F0350,A385,S114,1,Good but room too crowded.
+F0351,A134,S139,4,"Excellent talk, very useful."
+F0352,A205,S103,5,Slides were hard to read.
+F0353,A255,S149,2,Very engaging speaker.
+F0354,A275,S139,5,Needs more technical depth.
+F0355,A244,S102,2,Slides were hard to read.
+F0356,A106,S116,2,Very engaging speaker.
+F0357,A259,S123,3,Needs more technical depth.
+F0358,A267,S138,2,Will recommend to colleagues.
+F0359,A266,S108,1,Good but room too crowded.
+F0360,A136,S108,4,Will recommend to colleagues.
+F0361,A145,S133,4,"Excellent talk, very useful."
+F0362,A220,S136,1,"Excellent talk, very useful."
+F0363,A240,S138,1,Well organised session.
+F0364,A179,S130,1,Good but room too crowded.
+F0365,A232,S132,5,Needs more technical depth.
+F0366,A196,S120,2,Slides were hard to read.
+F0367,A315,S125,2,Average content.
+F0368,A145,S125,1,Needs more technical depth.
+F0369,A392,S137,1,Needs more technical depth.
+F0370,A342,S138,1,Will recommend to colleagues.
+F0371,A362,S124,2,Will recommend to colleagues.
+F0372,A115,S149,5,Average content.
+F0373,A221,S121,1,"Excellent talk, very useful."
+F0374,A294,S123,5,Good but room too crowded.
+F0375,A151,S106,2,Great speaker energy!
+F0376,A193,S120,5,Needs more technical depth.
+F0377,A351,S130,1,Good but room too crowded.
+F0378,A335,S117,3,Slides were hard to read.
+F0379,A325,S132,3,Good but room too crowded.
+F0380,A236,S141,1,Good but room too crowded.
+F0381,A287,S127,3,Needs more technical depth.
+F0382,A278,S133,4,"Excellent talk, very useful."
+F0383,A244,S107,1,Not relevant to my work.
+F0384,A370,S124,4,Very engaging speaker.
+F0385,A323,S113,3,Slides were hard to read.
+F0386,A106,S121,4,Needs more technical depth.
+F0387,A341,S133,3,Slides were hard to read.
+F0388,A280,S131,4,Will recommend to colleagues.
+F0389,A399,S112,5,Well organised session.
+F0390,A305,S143,5,Will recommend to colleagues.
+F0391,A220,S121,1,Average content.
+F0392,A150,S102,4,Needs more technical depth.
+F0393,A241,S138,1,Slides were hard to read.
+F0394,A256,S126,4,Well organised session.
+F0395,A316,S140,3,Great speaker energy!
+F0396,A255,S150,4,Average content.
+F0397,A272,S134,4,Not relevant to my work.
+F0398,A334,S128,3,Very engaging speaker.
+F0399,A395,S106,5,Average content.
+F0400,A379,S125,1,Average content.
+F0401,A335,S104,2,Well organised session.
+F0402,A266,S103,2,Average content.
+F0403,A129,S147,3,Needs more technical depth.
+F0404,A259,S124,2,Great speaker energy!
+F0405,A251,S115,5,Slides were hard to read.
+F0406,A351,S147,3,Great speaker energy!
+F0407,A153,S125,2,Very engaging speaker.
+F0408,A365,S131,5,Good but room too crowded.
+F0409,A386,S132,1,Not relevant to my work.
+F0410,A114,S114,4,Well organised session.
+F0411,A384,S130,2,Great speaker energy!
+F0412,A154,S126,3,Will recommend to colleagues.
+F0413,A106,S107,1,Needs more technical depth.
+F0414,A227,S139,1,Needs more technical depth.
+F0415,A400,S146,3,Average content.
+F0416,A162,S118,2,Great speaker energy!
+F0417,A361,S128,3,Will recommend to colleagues.
+F0418,A383,S123,4,Great speaker energy!
+F0419,A143,S113,2,Will recommend to colleagues.
+F0420,A374,S143,5,"Excellent talk, very useful."
+F0421,A361,S112,3,Needs more technical depth.
+F0422,A325,S140,2,Well organised session.
+F0423,A250,S112,2,"Excellent talk, very useful."
+F0424,A347,S124,1,Very engaging speaker.
+F0425,A237,S116,3,Needs more technical depth.
+F0426,A294,S104,2,Average content.
+F0427,A350,S148,3,Great speaker energy!
+F0428,A319,S123,2,Needs more technical depth.
+F0429,A335,S135,2,Good but room too crowded.
+F0430,A158,S140,2,"Excellent talk, very useful."
+F0431,A130,S117,4,Not relevant to my work.
+F0432,A339,S132,1,Great speaker energy!
+F0433,A185,S126,2,Well organised session.
+F0434,A302,S122,3,Average content.
+F0435,A370,S117,3,Good but room too crowded.
+F0436,A212,S150,5,Will recommend to colleagues.
+F0437,A243,S141,3,Well organised session.
+F0438,A276,S118,3,"Excellent talk, very useful."
+F0439,A350,S116,2,Great speaker energy!
+F0440,A265,S108,1,Average content.
+F0441,A162,S130,5,Well organised session.
+F0442,A362,S101,4,Will recommend to colleagues.
+F0443,A386,S116,1,"Excellent talk, very useful."
+F0444,A281,S108,3,Needs more technical depth.
+F0445,A313,S142,5,Needs more technical depth.
+F0446,A139,S126,2,Great speaker energy!
+F0447,A125,S102,2,"Excellent talk, very useful."
+F0448,A337,S148,4,"Excellent talk, very useful."
+F0449,A182,S147,2,Needs more technical depth.
+F0450,A336,S108,3,Very engaging speaker.
+F0451,A366,S103,5,Good but room too crowded.
+F0452,A120,S123,5,Needs more technical depth.
+F0453,A259,S129,1,Will recommend to colleagues.
+F0454,A280,S137,1,Well organised session.
+F0455,A163,S141,3,"Excellent talk, very useful."
+F0456,A370,S125,4,Will recommend to colleagues.
+F0457,A206,S107,2,Not relevant to my work.
+F0458,A101,S130,2,Good but room too crowded.
+F0459,A144,S119,5,"Excellent talk, very useful."
+F0460,A396,S132,5,"Excellent talk, very useful."
+F0461,A279,S138,5,"Excellent talk, very useful."
+F0462,A214,S101,5,Good but room too crowded.
+F0463,A330,S115,5,Will recommend to colleagues.
+F0464,A131,S149,3,Great speaker energy!
+F0465,A243,S111,4,Good but room too crowded.
+F0466,A287,S149,4,Good but room too crowded.
+F0467,A350,S111,4,Needs more technical depth.
+F0468,A125,S129,5,Average content.
+F0469,A171,S147,5,Good but room too crowded.
+F0470,A164,S147,2,Needs more technical depth.
+F0471,A228,S104,5,Slides were hard to read.
+F0472,A389,S112,1,Good but room too crowded.
+F0473,A342,S120,5,Very engaging speaker.
+F0474,A138,S131,2,Needs more technical depth.
+F0475,A263,S134,2,Great speaker energy!
+F0476,A128,S125,4,Will recommend to colleagues.
+F0477,A310,S109,5,Well organised session.
+F0478,A206,S119,3,"Excellent talk, very useful."
+F0479,A225,S128,4,Great speaker energy!
+F0480,A109,S140,3,Good but room too crowded.
+F0481,A197,S147,5,Very engaging speaker.
+F0482,A167,S142,2,Slides were hard to read.
+F0483,A267,S105,5,Will recommend to colleagues.
+F0484,A156,S150,4,Slides were hard to read.
+F0485,A211,S136,2,Slides were hard to read.
+F0486,A165,S149,5,Well organised session.
+F0487,A361,S147,1,Great speaker energy!
+F0488,A214,S114,5,Not relevant to my work.
+F0489,A345,S105,2,Great speaker energy!
+F0490,A198,S108,4,Very engaging speaker.
+F0491,A148,S136,3,Will recommend to colleagues.
+F0492,A389,S144,2,Will recommend to colleagues.
+F0493,A166,S103,2,Very engaging speaker.
+F0494,A305,S109,3,Great speaker energy!
+F0495,A268,S146,5,Needs more technical depth.
+F0496,A324,S143,1,Slides were hard to read.
+F0497,A338,S140,4,Needs more technical depth.
+F0498,A287,S150,3,Good but room too crowded.
+F0499,A272,S115,3,Average content.
+F0500,A247,S146,5,"Excellent talk, very useful."
